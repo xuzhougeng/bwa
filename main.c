@@ -30,7 +30,7 @@
 #include "utils.h"
 
 #ifndef PACKAGE_VERSION
-#define PACKAGE_VERSION "0.7.18-r1272-dirty"
+#define PACKAGE_VERSION "0.7.19-r1273"
 #endif
 
 int bwa_fa2pac(int argc, char *argv[]);
